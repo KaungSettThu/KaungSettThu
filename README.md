@@ -5,7 +5,7 @@ Mid-level Full Stack Developer focused on building scalable web applications wit
 ## About Me
 
 - Based in Yangon, Myanmar
-- 2+ years of experience in web development
+- 3+ years of experience in web development
 - Strong in backend architecture, REST APIs, queues, and real-time features
 - Growing deeper in full-stack development and DevOps
 
