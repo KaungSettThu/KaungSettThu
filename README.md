@@ -25,6 +25,5 @@ Strong background in database optimization, background job processing, real-time
 
 ## Connect
 
-- GitHub: [KaungSettThu1873](https://github.com/KaungSettThu1873)
 - LinkedIn: [Kaung Sett Thu](https://www.linkedin.com/in/kaung-sett-thu-a38786261/)
 - Email: kaungsettthu1873@gmail.com
