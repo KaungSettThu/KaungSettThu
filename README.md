@@ -1,13 +1,8 @@
 # Hi, I'm Kaung Sett Thu
 
-Mid-level Full Stack Developer focused on building scalable web applications with strong Laravel backend experience and growing full-stack skills in React, Next.js, and Node.js.
-
-## About Me
-
-- Based in Yangon, Myanmar
-- 3+ years of experience in web development
-- Strong in backend architecture, REST APIs, queues, and real-time features
-- Growing deeper in full-stack development and DevOps
+Backend Engineer with nearly 3 years of professional experience designing, developing, and maintaining backend systems using PHP and Laravel. Experienced in system architecture, RESTful API development, database engineering, transaction management, and concurrency control.
+Hands-on experience designing e-commerce architectures, implementing Stripe payment integrations, developing inventory reservation systems, and handling complex payment processing scenarios involving race conditions and webhook idempotency.
+Strong background in database optimization, background job processing, real-time notifications, server monitoring, and third-party integrations. Capable of independently designing backend systems, solving complex engineering challenges, and collaborating with development teams to deliver reliable software solutions.
 
 ## Tech Stack
 
